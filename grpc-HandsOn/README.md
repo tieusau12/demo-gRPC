@@ -1,4 +1,3 @@
-# demo-gRPC
 # grpc-java
 Demo test gRPC 
 RPC ( Remote Procedure Calls)

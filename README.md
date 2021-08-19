@@ -6,7 +6,8 @@ RPC ( Remote Procedure Calls)
 -gRPC là 1 frameword dành cho RPC của Google.
 - là sự kết hợp giữ Protocol Buffers và http2
 - giúp giảm tải việc giao tiếp liên tục giữa các service, để các service với nhau tốt độ cao nhất, giảm tải encode/decode data.
-
+- Sử dụng Protocol Buffer để transfer data thay vì dùng JSON/XML =>> tốc độ được gia tăng đáng kể.
+- Tập trung vào các action, hành động, message request, message response.
 - Nên dùng để giao tiếp backend to backend
 
 

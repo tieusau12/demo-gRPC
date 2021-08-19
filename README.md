@@ -20,3 +20,7 @@ Có nhiều phiên bản: thường dùng thì dùng proto3, hỗ trợ nhiều 
 + Xử lý rất nhanh, nhỏ hơn 3 - 10 lần so với XML hoặc JSON
 không dành cho con người vì là Binary.
 + Tạo các code truy cập dữ liệu dễ sử dụng hơn theo chương trình.
+
+--------
+Trong git em làm theo hướng dẫn trên mạng về login và logout.
+ + kiểm tra username/password đúng hoặc sai thì sẽ respone về message và status 
